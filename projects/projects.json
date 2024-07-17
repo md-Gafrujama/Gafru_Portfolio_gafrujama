@@ -1,0 +1,234 @@
+[
+  {
+    "name": "AI Face Recognition Attendance App",
+    "desc": "Empower attendance management with AI face recognition in this versatile desktop application.",
+    "image": "facerecog",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Gkumar20/Desktop_application",
+      "code": "https://github.com/Gkumar20/Desktop_application"
+    }
+  },
+
+  {
+    "name": "Leads4needs",
+    "desc": "Dynamic business website in MERN stack, rebuilt during an internship.",
+    "image": "leads4needs",
+    "category": "mern",
+    "links": {
+      "view": "https://leads4needs.com/",
+      "code": "https://github.com/Gkumar20/Google_oauth_Login_using_Session"
+    }
+  },
+  {
+    "name": "Attendance web App",
+    "desc": "AI-based attendance management in a final year MERN project.",
+    "image": "AIwebapp",
+    "category": "mern",
+    "links": {
+      "view": "../404.html",
+      "code": "https://github.com/Gkumar20/AttendanceWebApp"
+    }
+  },
+  {
+    "name": "Text Manipulate",
+    "desc": "ReactJS text manipulator for customized and interactive transformations.",
+    "image": "textman",
+    "category": "mern",
+    "links": {
+      "view": "https://gkumar20.github.io/TextManipulate",
+      "code": "https://github.com/Gkumar20/TextManipulate"
+    }
+  },
+  {
+    "name": "Browser Clone Butterfly",
+    "desc": "Enchanting web browser clone for a delightful college project.",
+    "image": "browser",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/browser-butterfly/",
+      "code": "https://github.com/Gkumar20/browser-butterfly"
+    }
+  },
+  {
+    "name": "sNotebook",
+    "desc": "MERN stack task manager for seamless collaboration and productivity.",
+    "image": "snotebook",
+    "category": "mern",
+    "links": {
+      "view": "https://snotebook.netlify.app/",
+      "code": "https://github.com/Gkumar20/sNotebook"
+    }
+  },
+  {
+    "name": "Food Delivery Website",
+    "desc": "Delectable college project blending culinary artistry with online ordering.",
+    "image": "food",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/food-delivery-website/",
+      "code": "https://github.com/Gkumar20/food-delivery-website"
+    }
+  },
+  {
+    "name": "Ludo Game Tkinter",
+    "desc": "Enjoy a classic Ludo game experience with this Tkinter-based Python project.",
+    "image": "ludo",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Gkumar20/Ludo-Game-Tkinter",
+      "code": "https://github.com/Gkumar20/Ludo-Game-Tkinter"
+    }
+  },
+  {
+    "name": "AI Face Detection from Image",
+    "desc": "Explore facial detection capabilities with this Python project using AI algorithms.",
+    "image": "faceai",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Gkumar20/Ai-face-Recognition",
+      "code": "https://github.com/Gkumar20/Ai-face-Recognition"
+    }
+  },
+  {
+    "name": "Yoga Website",
+    "desc": "Tranquil yoga sanctuary crafted for a serene college project.",
+    "image": "yoga",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/yoga-website/",
+      "code": "https://github.com/Gkumar20/yoga-website"
+    }
+  },
+  {
+    "name": "msconstructors",
+    "desc": "Robust MERN web app empowering businesses with comprehensive tools.",
+    "image": "msconstructors",
+    "category": "mern",
+    "links": {
+      "view": "https://msconstructors.in/",
+      "code": "https://github.com/Gkumar20/msconstructor"
+    }
+  },
+  {
+    "name": "Payment gateway",
+    "desc": "Subproject showcasing intricacies of a secure payment gateway system.",
+    "image": "payment",
+    "category": "mern",
+    "links": {
+      "view": "../404.html",
+      "code": "https://github.com/Gkumar20/Payment-gateway-client"
+    }
+  },
+  {
+    "name": "BVP Placement Cell",
+    "desc": "Streamlined MERN project for college placement activities.",
+    "image": "bvp",
+    "category": "mern",
+    "links": {
+      "view": "https://gkumar20.github.io/bvp_placement/",
+      "code": "https://github.com/Gkumar20/bvp_placement"
+    }
+  },
+  {
+    "name": "NewsDonkey",
+    "desc": "College project offering a unique perspective on news consumption.",
+    "image": "news",
+    "category": "mern",
+    "links": {
+      "view": "https://gkumar20.github.io/NewsDonkey/",
+      "code": "https://github.com/Gkumar20/NewsDonkey"
+    }
+  },
+  {
+    "name": "Helical Antenna Calculator",
+    "desc": "Innovative microwave antenna frequency calculator for college projects.",
+    "image": "antena",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/Helical_Antenna_calculator/",
+      "code": "https://github.com/Gkumar20/Helical_Antenna_calculator"
+    }
+  },
+
+  {
+    "name": "Analog Watch",
+    "desc": "Timeless elegance meets modern tech in a college project analog watch.",
+    "image": "watch",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/analog-watch/",
+      "code": "https://github.com/Gkumar20/analog-watch"
+    }
+  },
+  {
+    "name": "Clock Website",
+    "desc": "Digital canvas exploring the artistry of time for a college project.",
+    "image": "clock",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/clock-website/",
+      "code": "https://github.com/Gkumar20/clock-website"
+    }
+  },
+  {
+    "name": "Car Animation Game Website",
+    "desc": "Thrilling college project into the world of animated gaming.",
+    "image": "gameanim",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/car-animation-game/",
+      "code": "https://github.com/Gkumar20/car-animation-game"
+    }
+  },
+  {
+    "name": "Game Template",
+    "desc": "Versatile web-based game template for unleashing creativity in a college project.",
+    "image": "game",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gkumar20.github.io/game.github.iso/",
+      "code": "https://github.com/Gkumar20/game.github.iso"
+    }
+  },
+  {
+    "name": "Email Automate",
+    "desc": "Automate email processes seamlessly with this Python project using MySQL integration.",
+    "image": "email",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Gkumar20/email_automation_with_mysql_and_python",
+      "code": "https://github.com/Gkumar20/email_automation_with_mysql_and_python"
+    }
+  },
+  {
+    "name": "Typing Speed Calculator",
+    "desc": "Enhance your typing skills with this Python project featuring a typing speed calculator.",
+    "image": "typing",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Gkumar20/typing-speed-calculator",
+      "code": "https://github.com/Gkumar20/typing-speed-calculator"
+    }
+  },
+  {
+    "name": "Snake Water Game",
+    "desc": "Have fun with the Snake Water Game, a Python project for unleashing creativity.",
+    "image": "snake",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Gkumar20/snack-water-game",
+      "code": "https://github.com/Gkumar20/snack-water-game"
+    }
+  },
+  {
+    "name": "Robot Monitoring System",
+    "desc": "Monitor robots effectively with this Python-based robot monitoring system project.",
+    "image": "robot",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Gkumar20/robot-monitering-system",
+      "code": "https://github.com/Gkumar20/robot-monitering-system"
+    }
+  }
+]

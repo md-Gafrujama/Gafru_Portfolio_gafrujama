@@ -222,7 +222,7 @@
     }
   },
   {
-    "name": "Robot Monitoring System",
+    "name": "Robot Monitoring ",
     "desc": "Monitor robots effectively with this Python-based robot monitoring system project.",
     "image": "robot",
     "category": "python",

@@ -2,7 +2,7 @@
   {
     "name": "Analog watch",
     "desc": "Empower attendance management with AI face recognition in this versatile desktop application.",
-    "image": "facerecog",
+    "image": "clock",
     "category": "python",
     "links": {
       "view": "https://analogwatch.vercel.app",
@@ -63,7 +63,7 @@
   {
     "name": "Food Delivery Website",
     "desc": "Delectable college project blending culinary artistry with online ordering.",
-    "images": "food",
+    "image": "food",
     "category": "basicweb",
     "links": {
       "view": "https://gkumar20.github.io/food-delivery-website/",

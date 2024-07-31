@@ -1,12 +1,12 @@
 [
   {
-    "name": "AI Face Recognition Attendance App",
+    "name": "Analog watch",
     "desc": "Empower attendance management with AI face recognition in this versatile desktop application.",
     "image": "facerecog",
     "category": "python",
     "links": {
-      "view": "https://github.com/Gkumar20/Desktop_application",
-      "code": "https://github.com/Gkumar20/Desktop_application"
+      "view": "https://analogwatch.vercel.app",
+      "code": "https://github.com/md-Gafrujama/analogwatch"
     }
   },
 
@@ -36,8 +36,8 @@
     "image": "textman",
     "category": "mern",
     "links": {
-      "view": "https://gkumar20.github.io/TextManipulate",
-      "code": "https://github.com/Gkumar20/TextManipulate"
+      "view": "https://github.com/md-Gafrujama/text-maincuplate",
+      "code": "https://github.com/md-Gafrujama/text-maincuplate"
     }
   },
   {
@@ -63,7 +63,7 @@
   {
     "name": "Food Delivery Website",
     "desc": "Delectable college project blending culinary artistry with online ordering.",
-    "image": "food",
+    "images": "food",
     "category": "basicweb",
     "links": {
       "view": "https://gkumar20.github.io/food-delivery-website/",

@@ -11,13 +11,13 @@
   },
 
   {
-    "name": "Leads4needs",
+    "name": "calc",
     "desc": "Dynamic business website in MERN stack, rebuilt during an internship.",
-    "image": "leads4needs",
+    "image": "calc",
     "category": "mern",
     "links": {
-      "view": "https://leads4needs.com/",
-      "code": "https://github.com/Gkumar20/Google_oauth_Login_using_Session"
+      "view": "https://calculator-scientific-seven.vercel.app",
+      "code": "https://github.com/md-Gafrujama/calculator_scientific"
     }
   },
   {

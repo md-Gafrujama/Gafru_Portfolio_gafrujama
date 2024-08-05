@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio ganesh Kumar";
+            document.title = "Projects | Portfolio MD GaFRU";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {

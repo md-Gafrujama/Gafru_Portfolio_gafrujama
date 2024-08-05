@@ -23,7 +23,7 @@
   {
     "name": "Todo App",
     "desc": "AI-based attendance management in a final year MERN project.",
-    "image": "todo",
+    "image": "game",
     "category": "mern",
     "links": {
       "view": "https://todo-app-w5ex.vercel.app",

@@ -1,9 +1,9 @@
 [
   {
     "name": "Analog watch",
-    "desc": "Empower attendance management with AI face recognition in this versatile desktop application.",
+    "desc": "Devlope During college PBL.",
     "image": "clock",
-    "category": "python",
+    "category": "frintend like..HTML, CSS ,JavaScript",
     "links": {
       "view": "https://analogwatch.vercel.app",
       "code": "https://github.com/md-Gafrujama/analogwatch"
@@ -11,23 +11,23 @@
   },
 
   {
-    "name": "calc",
-    "desc": "Dynamic business website in MERN stack, rebuilt during an internship.",
+    "name": "calulator with fully Functionality",
+    "desc": "Advance Calculator devlope during the college PBL.",
     "image": "calc",
-    "category": "mern",
+    "category": "Frontend",
     "links": {
       "view": "https://calculator-scientific-seven.vercel.app",
       "code": "https://github.com/md-Gafrujama/calculator_scientific"
     }
   },
   {
-    "name": "Attendance web App",
+    "name": "Todo App",
     "desc": "AI-based attendance management in a final year MERN project.",
-    "image": "AIwebapp",
+    "image": "todo",
     "category": "mern",
     "links": {
-      "view": "../404.html",
-      "code": "https://github.com/Gkumar20/AttendanceWebApp"
+      "view": "https://todo-app-w5ex.vercel.app",
+      "code": "https://github.com/md-Gafrujama/TODO-app"
     }
   },
   {

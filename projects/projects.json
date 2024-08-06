@@ -93,11 +93,11 @@
   {
     "name": "Yoga Website",
     "desc": "Tranquil yoga sanctuary crafted for a serene college project.",
-    "image": "yoga",
+    "image": "text",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/yoga-website/",
-      "code": "https://github.com/Gkumar20/yoga-website"
+      "view": "https://github.com/md-Gafrujama/text-maincuplate",
+      "code": "https://github.com/md-Gafrujama/text-maincuplate"
     }
   },
   {

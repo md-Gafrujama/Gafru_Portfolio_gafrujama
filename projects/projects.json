@@ -33,11 +33,11 @@
   {
     "name": "Text Manipulate",
     "desc": "ReactJS text manipulator for customized and interactive transformations.",
-    "image": "textman",
+    "image": "file",
     "category": "mern",
     "links": {
-      "view": "https://github.com/md-Gafrujama/text-maincuplate",
-      "code": "https://github.com/md-Gafrujama/text-maincuplate"
+      "view": "https://github.com/md-Gafrujama/file_sharing",
+      "code": "https://github.com/md-Gafrujama/file_sharing"
     }
   },
   {
@@ -53,41 +53,41 @@
   {
     "name": "sNotebook",
     "desc": "MERN stack task manager for seamless collaboration and productivity.",
-    "image": "snotebook",
+    "image": "emp",
     "category": "mern",
     "links": {
-      "view": "https://snotebook.netlify.app/",
-      "code": "https://github.com/Gkumar20/sNotebook"
+      "view": "https://github.com/md-Gafrujama/employee",
+      "code": "https://github.com/md-Gafrujama/employee"
     }
   },
   {
     "name": "Food Delivery Website",
     "desc": "Delectable college project blending culinary artistry with online ordering.",
-    "image": "food",
+    "image": "auth",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/food-delivery-website/",
-      "code": "https://github.com/Gkumar20/food-delivery-website"
+      "view": "https://github.com/md-Gafrujama/auth_mern_app",
+      "code": "https://github.com/md-Gafrujama/auth_mern_app"
     }
   },
   {
     "name": "Ludo Game Tkinter",
     "desc": "Enjoy a classic Ludo game experience with this Tkinter-based Python project.",
-    "image": "ludo",
+    "image": "eco",
     "category": "python",
     "links": {
-      "view": "https://github.com/Gkumar20/Ludo-Game-Tkinter",
-      "code": "https://github.com/Gkumar20/Ludo-Game-Tkinter"
+      "view": "https://github.com/md-Gafrujama/Ecommerace-mern",
+      "code": "https://github.com/md-Gafrujama/Ecommerace-mern"
     }
   },
   {
     "name": "AI Face Detection from Image",
     "desc": "Explore facial detection capabilities with this Python project using AI algorithms.",
-    "image": "faceai",
+    "image": "job",
     "category": "python",
     "links": {
-      "view": "https://github.com/Gkumar20/Ai-face-Recognition",
-      "code": "https://github.com/Gkumar20/Ai-face-Recognition"
+      "view": "https://github.com/md-Gafrujama/job_portal",
+      "code": "https://github.com/md-Gafrujama/job_portal"
     }
   },
   {

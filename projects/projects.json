@@ -43,11 +43,11 @@
   {
     "name": "Browser Clone Butterfly",
     "desc": "Enchanting web browser clone for a delightful college project.",
-    "image": "browser",
+    "image": "connect",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/browser-butterfly/",
-      "code": "https://github.com/Gkumar20/browser-butterfly"
+      "view": "https://connect-four-react-master.vercel.app",
+      "code": "https://github.com/md-Gafrujama/connect-four-react-mdgafru"
     }
   },
   {

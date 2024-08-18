@@ -53,7 +53,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Ganesh Kumar";
+        document.title = "Experience | Portfolio Gafrujama";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
     else {

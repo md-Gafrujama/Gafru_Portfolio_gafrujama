@@ -22,17 +22,17 @@
   },
   {
     "name": "Todo App",
-    "desc": "AI-based attendance management in a final year MERN project.",
+    "desc": "Todo App is a simple task management application for creating, tracking, and organizing tasks efficiently ",
     "image": "game",
-    "category": "mern",
+    "category": "",
     "links": {
       "view": "https://todo-app-w5ex.vercel.app",
       "code": "https://github.com/md-Gafrujama/TODO-app"
     }
   },
   {
-    "name": "Text Manipulate",
-    "desc": "ReactJS text manipulator for customized and interactive transformations.",
+    "name": "File_sharing",
+    "desc": " File SharingN is a MERN stack application for secure file sharing with user authentication and real-time notifications.",
     "image": "file",
     "category": "mern",
     "links": {
@@ -41,8 +41,8 @@
     }
   },
   {
-    "name": "Browser Clone Butterfly",
-    "desc": "Enchanting web browser clone for a delightful college project.",
+    "name": "connect-four-react-master",
+    "desc": "connect-four-react-master is a React-based Connect Four game with two-player turn-based gameplay.",
     "image": "connect",
     "category": "basicweb",
     "links": {

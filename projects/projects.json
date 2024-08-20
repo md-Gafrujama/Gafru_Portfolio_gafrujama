@@ -72,7 +72,7 @@
   },
   {
     "name": "Ecommerace-mern",
-    "desc": "Enjoy a classic Ludo game experience with this Tkinter-based Python project.",
+    "desc": "An e-commerce platform built with the MERN stack allows users to browse, purchase, and manage products online.",
     "image": "eco",
     "category": "MERN",
     "links": {

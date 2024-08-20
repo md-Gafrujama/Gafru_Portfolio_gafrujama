@@ -51,8 +51,8 @@
     }
   },
   {
-    "name": "sNotebook",
-    "desc": "MERN stack task manager for seamless collaboration and productivity.",
+    "name": "Eemployee-Management ",
+    "desc": " An Employee Management System efficiently manages and organizes employee information.",
     "image": "emp",
     "category": "mern",
     "links": {
@@ -61,28 +61,28 @@
     }
   },
   {
-    "name": "Food Delivery Website",
-    "desc": "Delectable college project blending culinary artistry with online ordering.",
+    "name": "Authentication",
+    "desc": "Authentication is the process of verifying the identity of a user or system to grant access to resources.",
     "image": "auth",
-    "category": "basicweb",
+    "category": "MERN",
     "links": {
       "view": "https://github.com/md-Gafrujama/auth_mern_app",
       "code": "https://github.com/md-Gafrujama/auth_mern_app"
     }
   },
   {
-    "name": "Ludo Game Tkinter",
+    "name": "Ecommerace-mern",
     "desc": "Enjoy a classic Ludo game experience with this Tkinter-based Python project.",
     "image": "eco",
-    "category": "python",
+    "category": "MERN",
     "links": {
       "view": "https://github.com/md-Gafrujama/Ecommerace-mern",
       "code": "https://github.com/md-Gafrujama/Ecommerace-mern"
     }
   },
   {
-    "name": "AI Face Detection from Image",
-    "desc": "Explore facial detection capabilities with this Python project using AI algorithms.",
+    "name": "job_portal",
+    "desc": "A job portal built with the MERN stack enables users to search, apply for jobs, and manage applications online",
     "image": "job",
     "category": "python",
     "links": {
@@ -91,8 +91,8 @@
     }
   },
   {
-    "name": "Yoga Website",
-    "desc": "Tranquil yoga sanctuary crafted for a serene college project.",
+    "name": "Text-manipulate",
+    "desc": " Text-manipulate appears to be unclear or mistyped",
     "image": "text",
     "category": "basicweb",
     "links": {

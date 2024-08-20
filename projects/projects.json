@@ -106,8 +106,8 @@
     "image": "msconstructors",
     "category": "mern",
     "links": {
-      "view": "https://msconstructors.in/",
-      "code": "https://github.com/Gkumar20/msconstructor"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -117,7 +117,7 @@
     "category": "mern",
     "links": {
       "view": "../404.html",
-      "code": "https://github.com/Gkumar20/Payment-gateway-client"
+      "code": ""
     }
   },
   {
@@ -126,8 +126,8 @@
     "image": "bvp",
     "category": "mern",
     "links": {
-      "view": "https://gkumar20.github.io/bvp_placement/",
-      "code": "https://github.com/Gkumar20/bvp_placement"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -136,8 +136,8 @@
     "image": "news",
     "category": "mern",
     "links": {
-      "view": "https://gkumar20.github.io/NewsDonkey/",
-      "code": "https://github.com/Gkumar20/NewsDonkey"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -146,8 +146,8 @@
     "image": "antena",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/Helical_Antenna_calculator/",
-      "code": "https://github.com/Gkumar20/Helical_Antenna_calculator"
+      "view": "",
+      "code": ""
     }
   },
 
@@ -157,8 +157,8 @@
     "image": "watch",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/analog-watch/",
-      "code": "https://github.com/Gkumar20/analog-watch"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -167,8 +167,8 @@
     "image": "clock",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/clock-website/",
-      "code": "https://github.com/Gkumar20/clock-website"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -177,8 +177,8 @@
     "image": "gameanim",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/car-animation-game/",
-      "code": "https://github.com/Gkumar20/car-animation-game"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -187,8 +187,8 @@
     "image": "game",
     "category": "basicweb",
     "links": {
-      "view": "https://gkumar20.github.io/game.github.iso/",
-      "code": "https://github.com/Gkumar20/game.github.iso"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -197,8 +197,8 @@
     "image": "email",
     "category": "python",
     "links": {
-      "view": "https://github.com/Gkumar20/email_automation_with_mysql_and_python",
-      "code": "https://github.com/Gkumar20/email_automation_with_mysql_and_python"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -207,8 +207,8 @@
     "image": "typing",
     "category": "python",
     "links": {
-      "view": "https://github.com/Gkumar20/typing-speed-calculator",
-      "code": "https://github.com/Gkumar20/typing-speed-calculator"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -217,8 +217,8 @@
     "image": "snake",
     "category": "python",
     "links": {
-      "view": "https://github.com/Gkumar20/snack-water-game",
-      "code": "https://github.com/Gkumar20/snack-water-game"
+      "view": "",
+      "code": ""
     }
   },
   {
@@ -227,8 +227,8 @@
     "image": "robot",
     "category": "python",
     "links": {
-      "view": "https://github.com/Gkumar20/robot-monitering-system",
-      "code": "https://github.com/Gkumar20/robot-monitering-system"
+      "view": "",
+      "code": ""
     }
   }
 ]

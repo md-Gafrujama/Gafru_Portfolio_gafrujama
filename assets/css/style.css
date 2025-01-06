@@ -1454,3 +1454,122 @@ form .button-area {
 }
 
 /* scroll top ends */
+/* Base responsive adjustments */
+@media screen and (max-width: 1200px) {
+  .container {
+    width: 95%;
+    padding: 0 20px;
+  }
+  
+  .heading {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  html {
+    font-size: 55%;
+  }
+
+  section {
+    padding: 3rem 4%;
+  }
+
+  .home .content {
+    padding-left: 0;
+  }
+
+  .about .row .content {
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .skills .container .row {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .education .box-container .box {
+    margin: 1.5rem;
+    width: 90%;
+  }
+
+  .contact .container {
+    margin: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .home .content h2,
+  .home .content h2 span {
+    font-size: 4rem;
+  }
+
+  .skills .container .row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .experience .timeline::after {
+    left: 20px;
+  }
+
+  .experience .container {
+    padding-left: 5rem;
+  }
+
+  .footer .box-container {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 50%;
+  }
+
+  .home .content h2,
+  .home .content h2 span {
+    font-size: 3rem;
+  }
+
+  .about .row {
+    padding: 2rem;
+  }
+
+  .skills .container .row {
+    grid-template-columns: 1fr;
+  }
+
+  .contact .container {
+    margin: 1rem;
+  }
+}
+
+/* Fix for smooth scaling */
+* {
+  transition: all 0.3s ease;
+}
+
+/* Prevent content overlap */
+.section {
+  overflow: hidden;
+}
+
+.box,
+.container,
+.content {
+  box-sizing: border-box;
+}
+
+/* Improved image responsiveness */
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Better spacing control */
+.row {
+  margin: 0 -15px;
+  padding: 15px;
+}
